@@ -1,6 +1,7 @@
 # Simple Calculator
 
 A simple web-based calculator built with HTML, CSS, and JavaScript.
+
 <img width="137" alt="image" src="https://github.com/aluzdev/calculator/assets/147784908/089d460a-c8c4-4832-ae40-9360a10cf34c">
 
 
